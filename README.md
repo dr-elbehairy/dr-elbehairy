@@ -16,9 +16,3 @@
 📧 Feel free to reach out via [moustafayosrig@gmail.com] to connect or explore potential projects. Let's explore the limitless possibilities at the intersection of risk management, data science, and digital transformation!
 
 #RiskManagement #ActuarialScience #DataScience #AI #DigitalBusiness #Academic #Researcher #LifelongLearner
-
-
-<!---
-dr-elbehairy/dr-elbehairy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
